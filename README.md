@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ginge-in-Stitches
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...SQL & Python
 
 
